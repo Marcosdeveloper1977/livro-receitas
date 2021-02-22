@@ -14,9 +14,3 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 
 
-
-
-
-
-
-
